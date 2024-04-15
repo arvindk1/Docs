@@ -26,3 +26,7 @@
 - Transfer Learning: Leveraging a pre-trained model (trained on a large dataset) to perform similar but distinct tasks, reducing the need for extensive new data and computation.
 - Language Model: An AI model that understands and generates human-like text based on the context it has learned from vast amounts of training data.
 - Autoregressive Model: A type of model that generates sequences, where each new output element is dependent on the preceding elements.
+- Catastropic Forgetting:
+- 4C's -
+- PEFT
+- 
