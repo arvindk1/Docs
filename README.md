@@ -1,4 +1,4 @@
-# Docs
+# Terminology
 
 - Fine Tuning - Adjusting a pre-trained model on a specific dataset to specialize its performance for a particular task.
 - RHLF - (Reinforcement Learning from Human Feedback): A training method where a model learns to perform tasks by optimizing against a reward signal derived from human feedback, rather than fixed datasets.
